@@ -1,0 +1,23 @@
+{
+  "name": "robots",
+  "version": "0.0.1",
+  "authors": [
+    "Mariano <m.vicent@gmail.com>"
+  ],
+  "description": "a robot example",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.3.4"
+  },
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
